@@ -1,9 +1,9 @@
-title: yubolun's 2017 Baidu IFE
-url: https://ife.yubolun.com
-enforce_ssl: ife.yubolun.com
+title: liangzr's 2017 Baidu IFE
+url: https://ife.liangzr.tech
+enforce_ssl: ife.liangzr.tech
 
 show_downloads: true
-google_analytics: UA-45453476-5
+google_analytics: 
 
 theme: jekyll-theme-leap-day
 
